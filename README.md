@@ -1,3 +1,3 @@
-# Simple Starter
+# genuary2022.5
 
-Simple JS build starter for simple, client-only demos.
+Destroy a square
